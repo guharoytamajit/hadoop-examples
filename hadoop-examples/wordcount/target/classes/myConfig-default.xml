@@ -1,0 +1,10 @@
+<configuration>
+	<property>
+		<name>fruit</name>
+		<value>mango</value>
+	</property>
+	<property>
+		<name>color</name>
+		<value>${fruit} yellow</value>
+	</property>
+</configuration>

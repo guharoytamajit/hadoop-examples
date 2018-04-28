@@ -1,0 +1,6 @@
+<configuration>
+	<property>
+		<name>color</name>
+		<value>green</value>
+	</property>
+</configuration>

@@ -1,0 +1,8 @@
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/conf/GenericOptionsParserExample.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/custompartitioner/Driver.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/conf/ConfTest.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/com/WCDriver.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/com/WCMapper.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/com/WCPartitioner.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/com/WCReducer.java
+/home/tamajit/eclipse-workspace/hadoop-examples/wordcount/src/main/java/custompartitioner/MyMapper.java
