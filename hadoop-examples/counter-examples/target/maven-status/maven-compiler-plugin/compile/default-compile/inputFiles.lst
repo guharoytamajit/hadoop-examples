@@ -1,5 +1,5 @@
-/home/tamajit/eclipse-workspace/hadoop-examples/counter-examples/src/main/java/com/WCPartitioner.java
-/home/tamajit/eclipse-workspace/hadoop-examples/counter-examples/src/main/java/com/RecordCounter.java
-/home/tamajit/eclipse-workspace/hadoop-examples/counter-examples/src/main/java/com/WCReducer.java
-/home/tamajit/eclipse-workspace/hadoop-examples/counter-examples/src/main/java/com/WCMapper.java
-/home/tamajit/eclipse-workspace/hadoop-examples/counter-examples/src/main/java/com/WCDriver.java
+/home/tamajit/Desktop/hadoop_examples/hadoop-examples/hadoop-examples/counter-examples/src/main/java/com/WCDriver.java
+/home/tamajit/Desktop/hadoop_examples/hadoop-examples/hadoop-examples/counter-examples/src/main/java/com/WCPartitioner.java
+/home/tamajit/Desktop/hadoop_examples/hadoop-examples/hadoop-examples/counter-examples/src/main/java/com/WCMapper.java
+/home/tamajit/Desktop/hadoop_examples/hadoop-examples/hadoop-examples/counter-examples/src/main/java/com/WCReducer.java
+/home/tamajit/Desktop/hadoop_examples/hadoop-examples/hadoop-examples/counter-examples/src/main/java/com/RecordCounter.java

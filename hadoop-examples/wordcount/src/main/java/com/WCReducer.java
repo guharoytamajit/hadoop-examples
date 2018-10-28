@@ -26,12 +26,12 @@ public class WCReducer extends Reducer<Text, IntWritable, Text, IntWritable>{
 		for (IntWritable intWritable : values) {
 			count+=intWritable.get();
 		}
-//		context.write(key, new IntWritable(count));
-		if((key.toString().compareTo("i"))<0) {
-			multipleOutputs.write(key, new IntWritable(count), "abc.txt");
-		}else {
-			multipleOutputs.write(key, new IntWritable(count), "abc.txt");
-		}
+		context.write(key, new IntWritable(count));
+//		if((key.toString().compareTo("i"))<0) {
+//			multipleOutputs.write(key, new IntWritable(count), "abc.txt");
+//		}else {
+//			multipleOutputs.write(key, new IntWritable(count), "abc.txt");
+//		}
 		
 	}
 

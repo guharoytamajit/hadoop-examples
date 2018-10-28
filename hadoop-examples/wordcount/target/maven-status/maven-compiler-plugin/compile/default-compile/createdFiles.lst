@@ -1,8 +1,13 @@
+com/WCReducerInverse2.class
+com/MapperInverse.class
+com/drivers/WCDriverWithPartitioner.class
+custompartitioner/MyMapper.class
+com/WCMapper.class
+com/WCReducerInverse.class
+com/drivers/WCDriver.class
 com/WCReducer.class
 com/WCPartitioner.class
+com/drivers/WCDriverSorted.class
 custompartitioner/Driver.class
 conf/GenericOptionsParserExample.class
 conf/ConfTest.class
-custompartitioner/MyMapper.class
-com/WCDriver.class
-com/WCMapper.class
